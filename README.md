@@ -1,6 +1,6 @@
 # Soccer Player Timer App
 
-A simple Swift Playgrounds app to track **minutes and seconds played** by kids on a U10 soccer team.  
+A simple Swift Playgrounds app to track **minutes and seconds played** by kids on a soccer team.  
 The app was built to make it easy for coaches (or parents) to manage substitutions and ensure fair playtime.
 
 ---
